@@ -1,7 +1,7 @@
 # Overview
 
 Poep haha
-``` {figure} figures/figures/Schermafbeelding2024-09-26085743.png
+``` {figure} book/figures/Schermafbeelding2024-09-26085743.png
 ---
 width: 50%
 name: fig_mijneerstefiguur
