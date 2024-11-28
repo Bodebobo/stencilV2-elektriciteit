@@ -1,4 +1,10 @@
 # Overview
 
 Poep haha
-[figure] figures/Schermafbeelding 2024-09-26 085743.png
+``` {figure} figures/figures/Schermafbeelding2024-09-26085743.png
+---
+width: 50%
+name: fig_mijneerstefiguur
+---
+add bestand in de folder
+```
