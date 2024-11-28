@@ -1,7 +1,5 @@
 (intro)=
-# Welcome to the Template Book
+# Welkom bij het Stencil Capaciteit (VWO ONLY) en vermogen
 
-_Write book intro here. This is the first page the student will see when opening the url._
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
-a
+Eigenlijk weet ik totaal niet wat we hier moeten gaan neerzetten. 
+Welkom en succes I guess ''¯\_(ツ)_/¯''
