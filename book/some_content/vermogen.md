@@ -19,7 +19,7 @@ $$ P = U \cdot I $$ (eq:vermogen2)
 ```{warning}
 Hierin is het vermogen altijd in watt (W), de stroomsterkte altijd in Ampère (A) en de spanning altijd in Volt (V)
 ```
-## voorbeeldopgaven
+## Voorbeeldopgaven
 Hieronder staan een tweetal voorbeeldopgaven
 
 ```{exercise} Waterkoker
