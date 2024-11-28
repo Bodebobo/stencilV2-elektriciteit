@@ -7,6 +7,7 @@ parts:
     - file: some_content/capaciteit.md
       sections:
       - file: some_content/opgaven_capaciteit.md
+      - file: some_content/uitwerkingen_vermogen.md
     - file: some_content/vermogen.md
       sections:
       - file: some_content/opgaven_vermogen.md
