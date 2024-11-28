@@ -13,7 +13,7 @@ Bijvoorbeeld: een powerbank met een capaciteit van 50 Ah (Ampèreuur) kan voor 5
 Met deze formule kan de capaciteit worden berekend:
 
 
-$$ Q = I \cdot t $$ (eq:vermogen1)
+$$ Q = I \cdot t $$
 
 
 ```{tip}
