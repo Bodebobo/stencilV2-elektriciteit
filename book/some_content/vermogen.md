@@ -16,9 +16,9 @@ Door deze formule om te schrijven kun je ook het vermogen berekenen als je de ho
 
 $$ P = U \cdot I $$
 
-'''{warning}
-class: dropdown
+```{warning}
+:class: dropdown
 Hierin is het vermogen altijd in watt (W), de stroomsterkte altijd in Ampère (A) en de spanning altijd in Volt (V)
-'''
+```
 
 
