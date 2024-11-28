@@ -17,4 +17,13 @@ $$ P = U \cdot I $$
 Hierin is het vermogen altijd in watt (W), de stroomsterkte altijd in Ampère (A) en de spanning altijd in Volt (V)
 '''
 
+```{figure} aug-logo.png
+---
+width: 60%
+name: logo
+align: center
+---
+test
+```
+
 
