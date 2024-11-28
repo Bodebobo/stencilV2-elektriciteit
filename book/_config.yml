@@ -1,5 +1,5 @@
 title: Stencil elektriciteit V2
-author: B. van de Loo & G. Dohmen, Augustinianum #add your own name here
+author: K. Nijssen, B. van de Loo & G. Dohmen, Augustinianum #add your own name here
 logo: figures/AUG-logo.png #add your own logo here
 
 execute:
@@ -35,6 +35,7 @@ sphinx:
     - download_link_replacer
     - sphinx.ext.extlinks
     - sphinx_image_inverter
+    - sphinx_exercise
 
 bibtex_bibfiles: 
   - references.bib
