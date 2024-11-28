@@ -56,3 +56,4 @@ Een oven met een vermogen van 2500 W zit aangesloten op het lichtnet (U= 230 V).
 **O**: I=2500/230=10,9 A
 
 Dus de stroomsterkte die naar de oven gaat is 10,9 Ampère.
+```
