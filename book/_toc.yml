@@ -7,3 +7,4 @@ parts:
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
+    - file: some_content/vermogen.md
