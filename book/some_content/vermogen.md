@@ -28,21 +28,31 @@ Een waterkoker zit in het stopcontact (U= 230 V). Ik meet met een Ampèremeter d
 ```
 
 ```{solution} ex_waterkoker
+:class: dropdown
 **G**: U= 230 V, I= 7 A
+
 **G**: P= ?
+
 **F**: P=U∙I
+
 **O**: P=230∙7=1610 W
+
 Dus het vermogen van de waterkoker is 1610 Watt.
 ```
 
 ```{exercise} Oven
-:label ex_oven
+:label: ex_oven
 Een oven met een vermogen van 2500 W zit aangesloten op het lichtnet (U= 230 V). Bereken de stroomsterkte die richting de oven gaat.
 ```
 
 ```{solution} ex_oven
+:class: dropdown
 **G**: U= 230 V, P= 2500 W
+
 **G**: I= ?
+
 **F**: P=U∙I	 I=P/U	
+
 **O**: I=2500/230=10,9 A
+
 Dus de stroomsterkte die naar de oven gaat is 10,9 Ampère.
