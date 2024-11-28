@@ -2,8 +2,12 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Contents
+  - caption: Inhoudsopgave
     chapters:
-    - file: some_content/overview.md
+    - file: some_content/capaciteit.md
       sections:
-      - file: some_content/text_and_code.ipynb
+      - file: some_content/opgaven_capaciteit.md
+    - file: some_content/vermogen.md
+      sections:
+      - file: some_content/opgaven_vermogen.md
+    
