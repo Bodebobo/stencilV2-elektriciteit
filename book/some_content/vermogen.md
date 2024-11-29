@@ -43,6 +43,6 @@ Een oven met een vermogen van 2500 W zit aangesloten op het lichtnet (U= 230 V).
 ```{solution} ex_oven
 **G**: U= 230 V, P= 2500 W
 **G**: I= ?
-**F**: P=U∙I	 I=P/U	
+**F**: P=U∙I --> I=P/U	
 **O**: I=2500/230=10,9 A
 Dus de stroomsterkte die naar de oven gaat is 10,9 Ampère.
