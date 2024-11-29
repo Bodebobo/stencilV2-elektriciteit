@@ -20,3 +20,21 @@ $$ Q = I \cdot t $$
 - Als de capaciteit gegeven is in Ah, dan moet de stroomsterkte in A en de tijd in h
 - Als de capaciteit gegeven is in mAh, dan moet de stroomsterkte in mA en de tijd in h
 ```
+
+Voorbeeldopgave
+
+```{exercise} Muis
+:label ex_Muis
+In een muis moet één batterij een stroom leveren van 15mA. Deze batterij gaat 100 uur mee. Bereken de capaciteit van de batterij.
+```
+
+```{solution} ex_Muis
+**G**: I = 15mA, t = 100h
+
+**G**: Q= ?
+
+**F**: Q = I∙t	
+
+**O**: Q =15∙100 = 1500mAh
+
+Dus de batterij heeft een capaciteit van 1500mAh
