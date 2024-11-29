@@ -30,7 +30,11 @@ In een muis moet één batterij een stroom leveren van 15mA. Deze batterij gaat 
 
 ```{solution} ex_Muis
 **G**: I = 15mA, t = 100h
+
 **G**: Q= ?
+
 **F**: Q = I∙t	
+
 **O**: Q =15∙100 = 1500mAh
+
 Dus de batterij heeft een capaciteit van 1500mAh
