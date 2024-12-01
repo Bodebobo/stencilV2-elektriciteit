@@ -1,5 +1,9 @@
 # Opgaven
 
+Dit zijn de opgave die horen bij het onderwerp capaciteit. Veel succes bij het maken ervan. Denk aan je berekening!!
+
+De antwoorden kun je onder het kopje TIP vinden.
+
 ## Opgave 1
 
 Een onbekende batterij levert 3A voor 60 uur lang. Bereken de capaciteit van de batterij
