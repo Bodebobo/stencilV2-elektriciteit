@@ -1,5 +1,9 @@
 # Opgaven
 
+Dit zijn de opgave die horen bij het onderwerp capaciteit. Veel succes bij het maken ervan. Denk aan je berekening!!
+
+De antwoorden kun je onder het kopje TIP vinden.
+
 ## Opgave 11
 
 Een gloeilamp werkt op een spanning van 20 V en trekt een stroom van 0,5 A. Bereken het vermogen van de lamp.
